@@ -1,0 +1,16 @@
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\SOTTOCLASSI Auto Persona\bin\Debug\SOTTOCLASSI Auto Persona.exe.config
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\SOTTOCLASSI Auto Persona\bin\Debug\SOTTOCLASSI Auto Persona.exe
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\SOTTOCLASSI Auto Persona\bin\Debug\SOTTOCLASSI Auto Persona.pdb
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\SOTTOCLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.csproj.AssemblyReference.cache
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\SOTTOCLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.csproj.SuggestedBindingRedirects.cache
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\SOTTOCLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.csproj.CoreCompileInputs.cache
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\SOTTOCLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.exe
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\SOTTOCLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.pdb
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\CLASSI Auto Persona\bin\Debug\SOTTOCLASSI Auto Persona.exe.config
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\CLASSI Auto Persona\bin\Debug\SOTTOCLASSI Auto Persona.exe
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\CLASSI Auto Persona\bin\Debug\SOTTOCLASSI Auto Persona.pdb
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\CLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.csproj.AssemblyReference.cache
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\CLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.csproj.SuggestedBindingRedirects.cache
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\CLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.csproj.CoreCompileInputs.cache
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\CLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.exe
+C:\Users\William Di Bella\OneDrive\Desktop\sQuola\2021-2022\INFORMATICA\CLASSI Auto Persona\obj\Debug\SOTTOCLASSI Auto Persona.pdb
